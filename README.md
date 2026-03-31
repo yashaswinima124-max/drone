@@ -1,4 +1,3 @@
-cat > ~/drone_tel/README.md << 'EOF'
 
 It is a simple web based control station 
 This project does
